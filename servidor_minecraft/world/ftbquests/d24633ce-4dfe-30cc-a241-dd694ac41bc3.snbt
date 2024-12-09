@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d24633ce4dfe30cca241dd694ac41bc3"
+	name: "Chik3nBl4ck#d24633ce"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

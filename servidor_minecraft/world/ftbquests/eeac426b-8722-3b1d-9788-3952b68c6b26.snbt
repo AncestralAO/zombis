@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "eeac426b87223b1d97883952b68c6b26"
+	name: "Graniter82a#eeac426b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

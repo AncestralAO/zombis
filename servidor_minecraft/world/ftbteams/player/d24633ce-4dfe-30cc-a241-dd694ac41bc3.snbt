@@ -1,0 +1,17 @@
+{
+	id: "d24633ce-4dfe-30cc-a241-dd694ac41bc3"
+	type: "player"
+	player_name: "Chik3nBl4ck"
+	ranks: {
+		d24633ce-4dfe-30cc-a241-dd694ac41bc3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Chik3nBl4ck"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
