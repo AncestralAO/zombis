@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Graniter82a"
 		"ftbteams:description": ""
-		"ftbteams:color": "#6259FF"
+		"ftbteams:color": "#FF59BF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Kazuruki"
 		"ftbteams:description": ""
-		"ftbteams:color": "#7D59FF"
+		"ftbteams:color": "#D5FF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

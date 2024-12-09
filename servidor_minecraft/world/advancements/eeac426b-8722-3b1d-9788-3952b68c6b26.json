@@ -1,415 +1,1094 @@
 {
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
-    },
-    "done": true
-  },
   "mutantmonsters:root": {
     "criteria": {
-      "killed_by_something": "2024-12-09 23:33:13 +0000"
+      "killed_something": "2024-12-09 23:53:01 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
     },
     "done": true
   },
   "create:root": {
     "criteria": {
-      "0": "2024-12-09 23:20:07 +0000"
+      "0": "2024-12-09 23:50:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/cherry_lane": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-09 23:20:07 +0000"
+      "unlock_right_away": "2024-12-09 23:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
     },
     "done": true
   },
   "mekanism:root": {
     "criteria": {
-      "automatic": "2024-12-09 23:20:07 +0000"
+      "automatic": "2024-12-09 23:50:44 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/mangrove_lane": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
   "numismatics:root": {
     "criteria": {
-      "0": "2024-12-09 23:20:07 +0000"
+      "0": "2024-12-09 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
   "pfm:grant_book_on_first_join": {
     "criteria": {
-      "tick": "2024-12-09 23:20:07 +0000"
+      "tick": "2024-12-09 23:50:44 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+  "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+  "design_decor:recipes/building_blocks/wood_support_from_planks_stonecutting": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+  "pfm:recipes/furniture/jungle_modern_stool": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_oak_fence": {
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+  "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+  "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/warped_lane": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_classic": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
     },
     "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_warped_fence": {
+  "pfm:recipes/furniture/jungle_classic_stool": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+  "pfm:recipes/furniture/jungle_table_dinner": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+  "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "in_water": "2024-12-09 23:51:45 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+  "pfm:recipes/furniture/jungle_chair": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+  "pfm:recipes/furniture/jungle_classic_nightstand": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/workbench": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/jungle_lane": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_chair_classic": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_basic": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/birch_lane": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/spruce_lane": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
   "thingamajigs:recipes/redstone/thingamajig_state_cell": {
     "criteria": {
-      "has_redstone": "2024-12-09 23:20:07 +0000"
+      "has_redstone": "2024-12-09 23:50:45 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+  "pfm:recipes/furniture/jungle_table_log": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_log": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/motion_activated_light": {
+  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
   "zombiekit:zombie_kit": {
     "criteria": {
-      "zombie_kit": "2024-12-09 23:20:07 +0000"
+      "zombie_kit": "2024-12-09 23:50:44 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-12-09 23:54:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
     },
     "done": true
   },
   "infinitybuttons:root": {
     "criteria": {
-      "show": "2024-12-09 23:20:07 +0000"
+      "show": "2024-12-09 23:50:45 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+  "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "in_water": "2024-12-09 23:51:45 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+  "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "in_water": "2024-12-09 23:51:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
+  "pfm:recipes/furniture/jungle_chair_dinner": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/sonic_security_system": {
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/jungle_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-12-09 23:55:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
     },
     "done": true
   },
   "ags_day_counter:day_counter_root_advancement": {
     "criteria": {
-      "day_counter_root_advancement_0": "2024-12-09 23:20:07 +0000"
+      "day_counter_root_advancement_0": "2024-12-09 23:50:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/post_box": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_by_something": "2024-12-09 23:33:13 +0000"
+      "killed_something": "2024-12-09 23:53:01 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_birch_fence": {
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+  "thingamajigs:recipes/building_blocks/dark_oak_lane": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/jungle_large_button": {
+    "criteria": {
+      "has_thing": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
-      "has_bread": "2024-12-09 23:33:26 +0000"
+      "has_bread": "2024-12-09 23:53:17 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/combat/flint_knife": {
+  "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/building_blocks/prismarine_shard_from_seashells": {
+    "criteria": {
+      "has_seashells": "2024-12-09 23:52:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_chair_modern": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
   "zombiekit:grant_book_on_first_join": {
     "criteria": {
-      "tick": "2024-12-09 23:20:07 +0000"
+      "tick": "2024-12-09 23:50:44 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "in_water": "2024-12-09 23:51:45 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+  "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_boat": "2024-12-09 23:53:45 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+  "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+  "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:53:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_basin": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 23:51:45 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2024-12-09 23:20:07 +0000"
+      "seeds": "2024-12-09 23:50:45 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+  "refurbished_furniture:recipes/misc/constructing/white_stool": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+  "thingamajigs:recipes/building_blocks/acacia_lane": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/crimson_lane": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_stool": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2024-12-09 23:20:08 +0000"
+      "minecraft:beach": "2024-12-09 23:51:42 +0000",
+      "minecraft:cold_ocean": "2024-12-09 23:50:45 +0000"
     },
     "done": false
   },
-  "farmersdelight:recipes/decorations/cutting_board": {
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_boat": "2024-12-09 23:53:45 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
-      "has_stick": "2024-12-09 23:33:57 +0000"
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-09 23:54:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:53:13 +0000"
     },
     "done": true
   },
   "thingamajigs:get_book": {
     "criteria": {
-      "tick": "2024-12-09 23:20:07 +0000"
+      "tick": "2024-12-09 23:50:44 +0000"
     },
     "done": true
   },

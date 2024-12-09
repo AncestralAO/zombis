@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Chik3nBl4ck"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF8959"
+		"ftbteams:color": "#E7FF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
