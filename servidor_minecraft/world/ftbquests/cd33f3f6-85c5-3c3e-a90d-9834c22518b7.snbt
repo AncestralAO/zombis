@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "cd33f3f685c53c3ea90d9834c22518b7"
+	name: "Sanity15#cd33f3f6"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

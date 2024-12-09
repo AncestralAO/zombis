@@ -1,0 +1,100 @@
+{
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2024-12-09 23:27:37 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-09 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-09 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-12-09 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "numismatics:root": {
+    "criteria": {
+      "0": "2024-12-09 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-09 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/redstone/thingamajig_state_cell": {
+    "criteria": {
+      "has_redstone": "2024-12-09 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:zombie_kit": {
+    "criteria": {
+      "zombie_kit": "2024-12-09 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:root": {
+    "criteria": {
+      "show": "2024-12-09 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement_0": "2024-12-09 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-09 23:27:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-09 23:28:11 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-09 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-09 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-12-09 23:26:33 +0000",
+      "minecraft:ocean": "2024-12-09 23:28:14 +0000"
+    },
+    "done": false
+  },
+  "thingamajigs:get_book": {
+    "criteria": {
+      "tick": "2024-12-09 23:26:32 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

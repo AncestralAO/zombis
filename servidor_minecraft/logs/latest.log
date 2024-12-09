@@ -6258,3 +6258,71 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 23:22:20.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 855544bf-53c4-314e-898b-72dc5425c191
 [09Dec2024 23:22:20.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kazuruki (855544bf-53c4-314e-898b-72dc5425c191) successfully connected to voice chat
 [09Dec2024 23:23:28.861] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/zombieawareness/EnumSenseType
+[09Dec2024 23:26:32.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanity15[/172.30.33.100:61337] logged in with entity id 3137 at (-522.5, 63.0, -150.5)
+[09Dec2024 23:26:32.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 joined the game
+[09Dec2024 23:26:32.593] [Server thread/INFO] [Jade/]: Syncing config to Sanity15 (cd33f3f6-85c5-3c3e-a90d-9834c22518b7)
+[09Dec2024 23:26:32.595] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[cd33f3f6-85c5-3c3e-a90d-9834c22518b7] seen for the first time as 'Player:'Sanity15'['overworld']'
+[09Dec2024 23:26:33.863] [Server thread/INFO] [ping-wheel/]: Channel update: Sanity15 -> default
+[09Dec2024 23:26:33.864] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sanity15 (18)
+[09Dec2024 23:26:33.864] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sanity15
+[09Dec2024 23:27:02.065] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cd33f3f6-85c5-3c3e-a90d-9834c22518b7
+[09Dec2024 23:27:03.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cd33f3f6-85c5-3c3e-a90d-9834c22518b7
+[09Dec2024 23:27:03.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sanity15 (cd33f3f6-85c5-3c3e-a90d-9834c22518b7) successfully connected to voice chat
+[09Dec2024 23:27:37.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flansmod/common/actions/contexts/GunContext$EItemStackLinkage
+[09Dec2024 23:27:37.347] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/GunClientState$FireState
+[09Dec2024 23:27:37.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 was slain by Kazuruki
+[09Dec2024 23:27:39.121] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[cd33f3f6-85c5-3c3e-a90d-9834c22518b7] updated from 'Player:'Sanity15'['overworld']' to 'Player:'Sanity15'['overworld']'
+[09Dec2024 23:28:01.752] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/chemical/merged/MergedChemicalTank$Current
+[09Dec2024 23:28:01.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
+[09Dec2024 23:29:51.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Disconnected
+[09Dec2024 23:29:51.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
+[09Dec2024 23:29:51.113] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kazuruki
+[09Dec2024 23:31:54.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chik3nBl4ck[/172.30.82.34:60681] logged in with entity id 4974 at (-523.5, 63.0, -155.5)
+[09Dec2024 23:31:54.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck joined the game
+[09Dec2024 23:31:54.274] [Server thread/INFO] [Jade/]: Syncing config to Chik3nBl4ck (d24633ce-4dfe-30cc-a241-dd694ac41bc3)
+[09Dec2024 23:31:54.278] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[d24633ce-4dfe-30cc-a241-dd694ac41bc3] updated from 'Player:'Chik3nBl4ck'['overworld']' to 'Player:'Chik3nBl4ck'['overworld']'
+[09Dec2024 23:31:55.117] [Server thread/INFO] [ping-wheel/]: Channel update: Chik3nBl4ck -> default
+[09Dec2024 23:31:55.118] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chik3nBl4ck (18)
+[09Dec2024 23:31:55.118] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chik3nBl4ck
+[09Dec2024 23:32:26.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d24633ce-4dfe-30cc-a241-dd694ac41bc3
+[09Dec2024 23:32:27.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d24633ce-4dfe-30cc-a241-dd694ac41bc3
+[09Dec2024 23:32:27.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chik3nBl4ck (d24633ce-4dfe-30cc-a241-dd694ac41bc3) successfully connected to voice chat
+[09Dec2024 23:32:59.714] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1986118[id=<null>,name=Kazuruki,properties={},legacy=false] (/172.30.70.184:56739) lost connection: Internal Exception: java.util.ConcurrentModificationException
+[09Dec2024 23:33:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Chik3nBl4ck
+[09Dec2024 23:33:15.372] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[eeac426b-8722-3b1d-9788-3952b68c6b26] updated from 'Player:'Graniter82a'['overworld']' to 'Player:'Graniter82a'['overworld']'
+[09Dec2024 23:33:23.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kazuruki[/172.30.70.184:56757] logged in with entity id 5362 at (-507.99064986248925, 62.0, -165.30600652851416)
+[09Dec2024 23:33:23.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki joined the game
+[09Dec2024 23:33:23.183] [Server thread/INFO] [Jade/]: Syncing config to Kazuruki (855544bf-53c4-314e-898b-72dc5425c191)
+[09Dec2024 23:33:23.186] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[855544bf-53c4-314e-898b-72dc5425c191] updated from 'Player:'Kazuruki'['overworld']' to 'Player:'Kazuruki'['overworld']'
+[09Dec2024 23:33:24.896] [Server thread/INFO] [ping-wheel/]: Channel update: Kazuruki -> default
+[09Dec2024 23:33:24.896] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kazuruki (18)
+[09Dec2024 23:33:24.897] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kazuruki
+[09Dec2024 23:33:47.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Sanity15
+[09Dec2024 23:34:15.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Monster Hunter]
+[09Dec2024 23:34:23.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Sanity15
+[09Dec2024 23:34:24.955] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[eeac426b-8722-3b1d-9788-3952b68c6b26] updated from 'Player:'Graniter82a'['overworld']' to 'Player:'Graniter82a'['overworld']'
+[09Dec2024 23:34:35.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 was slain by Graniter82a
+[09Dec2024 23:34:36.820] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[cd33f3f6-85c5-3c3e-a90d-9834c22518b7] updated from 'Player:'Sanity15'['overworld']' to 'Player:'Sanity15'['overworld']'
+[09Dec2024 23:34:45.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Graniter82a
+[09Dec2024 23:34:46.804] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[d24633ce-4dfe-30cc-a241-dd694ac41bc3] updated from 'Player:'Chik3nBl4ck'['overworld']' to 'Player:'Chik3nBl4ck'['overworld']'
+[09Dec2024 23:34:52.934] [Worker-Main-3/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[09Dec2024 23:34:52.935] [Worker-Main-3/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[09Dec2024 23:35:00.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 was slain by Graniter82a
+[09Dec2024 23:35:01.604] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[cd33f3f6-85c5-3c3e-a90d-9834c22518b7] updated from 'Player:'Sanity15'['overworld']' to 'Player:'Sanity15'['overworld']'
+[09Dec2024 23:35:02.464] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 855544bf-53c4-314e-898b-72dc5425c191
+[09Dec2024 23:35:03.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 855544bf-53c4-314e-898b-72dc5425c191
+[09Dec2024 23:35:03.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kazuruki (855544bf-53c4-314e-898b-72dc5425c191) successfully connected to voice chat
+[09Dec2024 23:35:15.304] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[855544bf-53c4-314e-898b-72dc5425c191] updated from 'Player:'Kazuruki'['overworld']' to 'Player:'Kazuruki'['overworld']'
+[09Dec2024 23:35:40.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Disconnected
+[09Dec2024 23:35:40.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
+[09Dec2024 23:35:40.263] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kazuruki
+[09Dec2024 23:35:40.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Sanity15
+[09Dec2024 23:35:41.853] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[eeac426b-8722-3b1d-9788-3952b68c6b26] updated from 'Player:'Graniter82a'['overworld']' to 'Player:'Graniter82a'['overworld']'
+[09Dec2024 23:35:43.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 was slain by Chik3nBl4ck
+[09Dec2024 23:35:45.054] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[cd33f3f6-85c5-3c3e-a90d-9834c22518b7] updated from 'Player:'Sanity15'['overworld']' to 'Player:'Sanity15'['overworld']'
+[09Dec2024 23:36:15.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 was slain by Graniter82a
+[09Dec2024 23:36:16.305] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[cd33f3f6-85c5-3c3e-a90d-9834c22518b7] updated from 'Player:'Sanity15'['overworld']' to 'Player:'Sanity15'['overworld']'
+[09Dec2024 23:36:30.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Chik3nBl4ck
+[09Dec2024 23:36:32.305] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[eeac426b-8722-3b1d-9788-3952b68c6b26] updated from 'Player:'Graniter82a'['overworld']' to 'Player:'Graniter82a'['overworld']'
+[09Dec2024 23:36:34.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Graniter82a
+[09Dec2024 23:36:36.206] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[d24633ce-4dfe-30cc-a241-dd694ac41bc3] updated from 'Player:'Chik3nBl4ck'['overworld']' to 'Player:'Chik3nBl4ck'['overworld']'

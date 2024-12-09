@@ -1,0 +1,17 @@
+{
+	id: "cd33f3f6-85c5-3c3e-a90d-9834c22518b7"
+	type: "player"
+	player_name: "Sanity15"
+	ranks: {
+		cd33f3f6-85c5-3c3e-a90d-9834c22518b7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sanity15"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59E4FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
