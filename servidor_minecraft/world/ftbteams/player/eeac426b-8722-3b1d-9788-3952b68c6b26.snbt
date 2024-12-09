@@ -1,0 +1,17 @@
+{
+	id: "eeac426b-8722-3b1d-9788-3952b68c6b26"
+	type: "player"
+	player_name: "Graniter82a"
+	ranks: {
+		eeac426b-8722-3b1d-9788-3952b68c6b26: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Graniter82a"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF596E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
