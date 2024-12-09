@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "855544bf53c4314e898b72dc5425c191"
+	name: "Kazuruki#855544bf"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

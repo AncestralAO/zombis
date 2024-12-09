@@ -1,0 +1,17 @@
+{
+	id: "855544bf-53c4-314e-898b-72dc5425c191"
+	type: "player"
+	player_name: "Kazuruki"
+	ranks: {
+		855544bf-53c4-314e-898b-72dc5425c191: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Kazuruki"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

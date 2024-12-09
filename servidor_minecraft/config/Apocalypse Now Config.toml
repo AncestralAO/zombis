@@ -18,8 +18,6 @@
 [humans_spawn]
 	#disables the spawn of humans in this mod
 	"Humans Spawn" = true
-	#disables the spawn of looters in this mod
-	"Looters Spawn" = true
 
 [ambient_spawn]
 	#Disables the spawn of ambient creatures in this mod
